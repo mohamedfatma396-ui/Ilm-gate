@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ilm-gate.vercel.app/sitemap.xml

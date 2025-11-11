@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "623139ade2912630bc023a2b361be9e7"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "347acf2a37adeb1f16c38b4337616cc3"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "e14e411e8ad6a670c3fd303d4386e7b6"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "f364d4cc9d1564e6fb8a80e453596841"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "970120dbc62254f62287fceb40b45f82"
+    },
+    {
+        "path": "learn-quran-recitation-a-spiritual-journey-to-perfect-your-connection-with-the-holy-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-a-spiritual-journey-to-perfect-your-connection-with-the-holy-quran/index.html",
+        "type": "file",
+        "md5": "c0e327d727d79e8be1175274bb51fb81"
+    },
+    {
+        "path": "learn-quran-recitation-discover-the-beauty-and-harmony-of-the-holy-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-discover-the-beauty-and-harmony-of-the-holy-quran/index.html",
+        "type": "file",
+        "md5": "1b42841030012e0f12c270cab34fa42b"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/images-9.jfif",
+        "type": "file",
+        "md5": "cdc710405461cbd87fce07b86fd11ab5"
+    },
+    {
+        "path": "online-quran-recitation-bringing-the-holy-quran-closer-to-every-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-recitation-bringing-the-holy-quran-closer-to-every-home/index.html",
+        "type": "file",
+        "md5": "7c83a0917e57ada85b31313667ba1731"
+    },
+    {
+        "path": "online-quran-recitation-connecting-hearts-with-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-recitation-connecting-hearts-with-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "5b7079ab249dc4944f759a390dca9bb0"
+    },
+    {
+        "path": "online-quran-recitation-reviving-the-spirit-of-the-quran-in-the-digital-age",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-recitation-reviving-the-spirit-of-the-quran-in-the-digital-age/index.html",
+        "type": "file",
+        "md5": "3a6d2b1238bf9147366c756106634c3d"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2d79bd3d6cff31ff69524349d508a959"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "c36ff489942aa3c881c05ca34083a5ed"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "0a13b295d8d3f6b986a58b2480467c9f"
+    }
+]
